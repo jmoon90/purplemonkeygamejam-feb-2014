@@ -12,6 +12,7 @@ If you are going to make a web-based game be sure to either work in or publish t
 
 - [Phaser](http://phaser.io/) Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [pixi.js](https://github.com/GoodBoyDigital/pixi.js/) Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback.
+- [SuperConnectFour](https://github.com/jmoon90/ConnectFour) Super fun Connect four is exactly you think it is. Awesome. First player to connect 4 wins!
 
 ###Lua
 
